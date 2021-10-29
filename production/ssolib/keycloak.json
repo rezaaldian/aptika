@@ -1,0 +1,11 @@
+{
+  "realm": "demo",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "none",
+  "resource": "apsso",
+  "realm-public-key": "-__VP8qdbF2vmLhavYm6ys9y_bAvTJAPwAJnQ0HYbcA",
+  "client-secret": "b7dd1927-7458-43d8-87f6-5ff4c20bf12f",
+  "redirect_uri": "http://localhost/apsso/authcode_callback.php",
+  "public-client": false,
+  "use-resource-role-mappings": true
+}
